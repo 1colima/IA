@@ -1,3 +1,4 @@
+#árvore com todos os atributos alterados para nominais não ordinais.
 import pandas as pd
 import numpy as np
 from sklearn import tree
